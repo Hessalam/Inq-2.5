@@ -1,0 +1,1 @@
+The raw codebase for The Inquisition which closed down in about 2004. A lot of work will have to go into getting it stable again, but here you go. Some keywords: inq-2.5, inq2.4, Inquisition 2.4 2.5 codebase, based on ROM 2.4.
